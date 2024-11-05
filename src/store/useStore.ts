@@ -18,8 +18,8 @@ const sampleItems: Item[] = [
     id: '1',
     title: 'Lost iPhone 14 Pro',
     description:
-      'Lost my iPhone 14 Pro (Space Gray) near Central Park. Has a black case with a distinctive red stripe. Last seen near the fountain area.',
-    location: 'Central Park, New York',
+      'Lost my iPhone 14 Pro (Space Gray) near Suswad Canteen. Has a black case with a distinctive red stripes.',
+    location: 'Suswad Canteen, Cummins college, Pune',
     category: 'Electronics',
     date: '2024-02-15',
     status: 'lost',
@@ -37,8 +37,8 @@ const sampleItems: Item[] = [
     id: '2',
     title: 'Found MacBook Pro',
     description:
-      'Found a MacBook Pro (13-inch, Space Gray) at Starbucks on 5th Avenue. Has several tech stickers on the cover.',
-    location: 'Starbucks, 5th Avenue',
+      'Found a MacBook Pro (13-inch, Space Gray) in Discussion zone. Has several tech stickers on the cover.',
+    location: 'Discussion zone, Main building, Cummins College, Pune',
     category: 'Electronics',
     date: '2024-02-16',
     status: 'found',
