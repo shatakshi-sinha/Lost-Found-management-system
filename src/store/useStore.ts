@@ -54,11 +54,11 @@ const sampleItems: Item[] = [
   },
   {
     id: '3',
-    title: 'Lost Engagement Ring',
+    title: 'Lost Hand Cream',
     description:
-      'Lost my engagement ring at Times Square. Its a white gold ring with a princess cut diamond. Extremely sentimental value.',
-    location: 'Times Square, New York',
-    category: 'Jewelry',
+      'Lost my hand cream at the Mechanical auditorium. Extremely important due to skin problems.',
+    location: 'Mechanical Auditorium, Cummins College Pune',
+    category: 'Other',
     date: '2024-02-17',
     status: 'lost',
     imageUrl: 'https://images.unsplash.com/photo-1515377905703-c4788e51af15',
